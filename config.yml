@@ -1,6 +1,6 @@
 baseURL: "https://jiyuan.is/" 
 title: Jiyuan Zhang
-paginate: 20
+paginate: 50
 theme: PaperMod
 
 enableInlineShortcodes: true
