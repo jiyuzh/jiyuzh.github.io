@@ -45,7 +45,7 @@ __Research Mentoring @ UIUC__
 
 <p class="text-left"><a href="https://www.linkedin.com/in/yiming-du-901428214">Yiming Du</a> (Graduate Student, University of Rhode Island)</p> <p class="text-right">Fall 2022 - Spring 2023</p>
 
-__Teaching Assitant @ NJIT__
+__Teaching Assistant @ NJIT__
 
 <p class="text-left"><a href="https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1068&context=cs-syllabi">CS 114 Introduction to Computer Science II</a> with Prof. <a href="https://people.njit.edu/faculty/calvin">Calvin M. James</a></p> <p class="text-right">Spring 2021</p>
 
