@@ -1,0 +1,104 @@
+baseURL: "https://jiyuan.is/" 
+title: Jiyuan Zhang
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: About Me
+          url: /me/
+          weight: 2
+        - name: Research
+          url: /researcher/
+          weight: 3
+        - name: CV
+          url: /cv.pdf
+          weight: 4
+
+params:
+    description: "Jiyuan Zhang is a second-year Master of Science in Computer Science at the University of Illinois Urbana-Champaign. He received his Bachelor's degree from the New Jersey Institute of Technology in 2022. Zhang is working with Professor Tianyin Xu on improving the performance and scalability of modern virtualization technologies, with an emphasis on topics related to virtualized memory."
+    author: Jiyuan Zhang
+    email: jiyuanz3@illinois.edu
+    googleAnalyticsID: "G-0"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: false
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+
+    profileMode:
+          enabled: true
+          title: Jiyuan Zhang
+          subtitle: "Jiyuan Zhang is a second-year Master of Science in Computer Science at the University of Illinois Urbana-Champaign. Zhang is working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern virtualization technologies_."
+          imageUrl: "/profile.png"
+          imageWidth: 170
+          imageHeight: 170
+          imageTitle: Jiyuan Zhang
+          buttons:
+            - name: About Me
+              url: /me/
+            - name: Research
+              url: /researcher/
+            - name: CV
+              url: /cv.pdf
+
+    socialIcons:
+        - name: CV
+          url: "/cv.pdf"
+        - name: Email
+          url: "mailto:jiyuanz3@illinois.edu"
+        - name: Location
+          url: /location/
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=-8_kT8cAAAAJ"
+        - name: GitHub
+          url: "https://github.com/jiyuzh"
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Jiyuan Zhang"
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
