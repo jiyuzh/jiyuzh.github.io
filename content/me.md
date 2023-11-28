@@ -41,13 +41,17 @@ You can find my Curriculum Vitae [here](/cv.pdf).
 
 __Research Mentoring @ UIUC__
 
+<p class="text-left"><a href="https://www.linkedin.com/in/peizhe-liu/">Peizhe Liu</a> (Undergraduate Student, UIUC)</p> <p class="text-right">Fall 2023 - Present</p>
+
 <p class="text-left"><a href="https://www.linkedin.com/in/fan-chung-8637741a4/">Fan Chung</a> (Undergraduate Student, UIUC)</p> <p class="text-right">Spring 2023 - Present</p>
 
 <p class="text-left"><a href="https://www.linkedin.com/in/yiming-du-901428214">Yiming Du</a> (Graduate Student, University of Rhode Island)</p> <p class="text-right">Fall 2022 - Spring 2023</p>
 
 __Teaching Assistant @ NJIT__
 
-<p class="text-left"><a href="https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1068&context=cs-syllabi">CS 114 Introduction to Computer Science II</a> with Prof. <a href="https://people.njit.edu/faculty/calvin">Calvin M. James</a></p> <p class="text-right">Spring 2021</p>
+<p class="text-left"><a href="https://cs423-uiuc.github.io/fall23/index.html">CS 423: Operating System Design</a> with Prof. <a href="https://tianyin.github.io/">Tianyin Xu</a></p> <p class="text-right">Fall 2023</p>
+
+<p class="text-left"><a href="https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1068&context=cs-syllabi">CS 114: Introduction to Computer Science II</a> with Prof. <a href="https://people.njit.edu/faculty/calvin">Calvin M. James</a></p> <p class="text-right">Spring 2021</p>
 
 ---
 
@@ -61,7 +65,7 @@ __Teaching Assistant @ NJIT__
 
 ## Awards and Honors
 
-<p class="text-left"><b>NJIT Presidential Medal</b>, NJIT</p> <p class="text-right">2022</p>
+<p class="text-left"><b>President's Medal for Academic Excellence</b>, NJIT</p> <p class="text-right">2022</p>
 <br/>
 <p class="text-left"><b>Summa Cum Laude</b>, NJIT</p> <p class="text-right">2022</p>
 <br/>
@@ -69,6 +73,16 @@ __Teaching Assistant @ NJIT__
 
 ---
 
+## Presentations and Talks
+
+<p class="text-left"><b>HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation</b></p>
+<br/>
+<p class="text-left">Int'l. Conf. on Parallel Architectures and Compilation Techniques</p> <p class="text-right">Oct 23, 2023</p>
+<br/>
+<p class="text-left">National Center for Supercomputing Applications</p> <p class="text-right">Oct 17, 2023</p>
+
+---
+
 ## Miscellaneous
 
-I am a huge fan of Bethesda games, including The Elder Scrolls and Starfield (I am already hyped!). I also like watching anime.
+I am a huge fan of Elder Scrolls franchise. I also like watching anime. My current favourite is BanG Dream It's MyGO!!!!!.
