@@ -4,7 +4,7 @@ date: 2023-05-08
 url: /eurosys23-gemini/
 pubStatus: "EuroSys '23"
 pubStatusColor: "#3D9970"
-author: [ "Weiwei Jia\\*", "__Jiyuan Zhang__\\*", "Jiachen Shan", "Xiaoning Ding (\\* co-first)" ]
+author: [ "Weiwei Jia\\*", "__Jiyuan Zhang__\\*", "Jianchen Shan", "Xiaoning Ding (\\* co-first)" ]
 description: "This paper identifies host-guest page size mismatch as a main cause of high TLB misses and low performance in virtualized systems. This paper presents Gemini, a VM-hypervisor-based technique to mitigate the issue. Gemini can reduce TLB misses by up to 83% and improve application performance by up to 126%."
 summary: "This paper identifies host-guest page size mismatch as a main cause of high TLB misses and low performance in virtualized systems. This paper presents Gemini, a VM-hypervisor-based technique to mitigate the issue. Gemini can reduce TLB misses by up to 83% and improve application performance by up to 126%."
 hasMore: true
@@ -34,5 +34,5 @@ Extensive evaluation based on the prototype implementation in Linux/KVM and dive
 
 ##### Citation
 
-Weiwei Jia, Jiyuan Zhang, Jiachen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, 2023.
+Weiwei Jia, Jiyuan Zhang, Jianchen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, 2023.
 

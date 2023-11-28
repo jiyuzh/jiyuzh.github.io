@@ -4,7 +4,7 @@ date: 2022-11-07
 url: /socc22-dasec/
 pubStatus: "SoCC '22"
 pubStatusColor: "#3D9970"
-author: [ "Weiwei Jia", "__Jiyuan Zhang__", "Jiachen Shan", "Jing Li", "Xiaoning Ding"]
+author: [ "Weiwei Jia", "__Jiyuan Zhang__", "Jianchen Shan", "Jing Li", "Xiaoning Ding"]
 description: "This paper proposes DASEC, a task scheduler for edge clouds. DASEC makes application performance less sensitive to the interference between workloads by detecting and protecting critical paths. DASEC can reduce the latencies of edge workloads by 32% ~ 52%." 
 summary: "This paper proposes DASEC, a task scheduler for edge clouds. DASEC makes application performance less sensitive to the interference between workloads by detecting and protecting critical paths. DASEC can reduce the latencies of edge workloads by 32% ~ 52%."
 hasMore: true
@@ -32,5 +32,5 @@ The paper has investigated the techniques to implement DASEC in the task schedul
 
 ##### Citation
 
-Weiwei Jia, Jiyuan Zhang, Jiachen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, 2022.
+Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, 2022.
 

@@ -21,7 +21,7 @@ Weiwei Jia\*, __Jiyuan Zhang__\*, Jianchen Shan, Yiming Du, Xiaoning Ding, and T
 
 ### EuroSys '23
 
-Weiwei Jia\*, __Jiyuan Zhang__\*, Jiachen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, 2023.
+Weiwei Jia\*, __Jiyuan Zhang__\*, Jianchen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, 2023.
 
 \* equal contribution
 
@@ -39,6 +39,6 @@ Wenbo Wang, Tien N. Nguyen, Shaohua Wang, Yi Li, __Jiyuan Zhang__, and Aashish Y
 
 ### SoCC '22
 
-Weiwei Jia, __Jiyuan Zhang__, Jiachen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, 2022.
+Weiwei Jia, __Jiyuan Zhang__, Jianchen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, 2022.
 
 [\[ URL \]](https://doi.org/10.1145/3542929.3563459) [\[ PDF \]](/papers/socc22-dasec.pdf)
