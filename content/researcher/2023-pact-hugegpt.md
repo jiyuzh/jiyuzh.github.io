@@ -15,6 +15,7 @@ hasMore: true
 
 ##### Metadata
 
+- DOI: [10.1109/PACT58117.2023.00014](https://doi.org/10.1109/PACT58117.2023.00014)
 - PDF: [Download Here](/papers/pact23-hugegpt.pdf)
 
 ---

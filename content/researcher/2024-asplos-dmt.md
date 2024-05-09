@@ -4,7 +4,7 @@ date: 2024-04-27
 url: /asplos24-dmt/
 pubStatus: "ASPLOS '24"
 pubStatusColor: "#3D9970"
-author: [ "__Jiyuan Zhang__\\*", "Weiwei Jia", "Siyuan Chai", "Peizhe Liu", "Jongyul Kim", "Tianyin Xu" ]
+author: [ "__Jiyuan Zhang__", "Weiwei Jia", "Siyuan Chai", "Peizhe Liu", "Jongyul Kim", "Tianyin Xu" ]
 description: "This paper presents HugeGPT, a software approach to reducing two-dimensional page table walk overhead in virtualized environments. HugeGPT ensures that page tables used in guest systems are physically held in the huge pages formed in the host. HugeGPT can efficiently reduce address translation overhead and improve application performance in virtualized clouds."
 summary: "This paper presents HugeGPT, a software approach to reducing two-dimensional page table walk overhead in virtualized environments. HugeGPT ensures that page tables used in guest systems are physically held in the huge pages formed in the host. HugeGPT can efficiently reduce address translation overhead and improve application performance in virtualized clouds."
 hasMore: true
@@ -15,6 +15,7 @@ hasMore: true
 
 ##### Metadata
 
+- DOI: [10.1145/3620665.3640358](https://doi.org/10.1145/3620665.3640358)
 - PDF: [Download Here](/papers/asplos24-dmt.pdf)
 
 ---
