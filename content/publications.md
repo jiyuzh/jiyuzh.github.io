@@ -9,13 +9,21 @@ description: "My publications."
 
 ## Refereed Conference Publications
 
+### ASPLOS '24
+
+__Jiyuan Zhang__, Weiwei Jia, Siyuan Chai, Peizhe Liu, Jongyul Kim, and Tianyin Xu. "Direct Memory Translation for Virtualized Clouds". In _Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)_, 2024.
+
+[\[ URL \]](https://doi.org/10.1145/3620665.3640358) [\[ PDF \]](/papers/asplos24-dmt.pdf)
+
+---
+
 ### PACT '23
 
 Weiwei Jia\*, __Jiyuan Zhang__\*, Jianchen Shan, Yiming Du, Xiaoning Ding, and Tianyin Xu. "HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation". In _Proceedings of the 32th International Conference on Parallel Architectures and Compilation Techniques (PACT)_, 2023.
 
 \* equal contribution
 
-[\[ PDF \]](/papers/pact23-hugegpt.pdf)
+[\[ URL \]](https://doi.org/10.1109/PACT58117.2023.00014) [\[ PDF \]](/papers/pact23-hugegpt.pdf)
 
 ---
 

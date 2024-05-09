@@ -7,7 +7,7 @@ description: "My information."
 
 ---
 
-Hi! My name is Jiyuan Zhang. I am a second-year Master of Science student studying Computer Science at the University of Illinois Urbana-Champaign. I received my Bachelor's degree from the New Jersey Institute of Technology in 2022.
+Hi! My name is Jiyuan Zhang. I am a second-year Master of Science student studying Computer Science at the University of Illinois Urbana-Champaign. I received my Bachelor's degree from the New Jersey Institute of Technology in 2022. I will graduate from MS program May 2024 and return to UIUC as a Ph.D. student in the Fall.
 
 I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern virtualization technologies_, with an emphasis on topics related to virtualized memory. I have designed several techniques for improving the efficiency of memory translation and hardware caches. I also conducted research on topics such as file systems and task scheduling.
 
@@ -17,7 +17,7 @@ I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improvin
 
 <p class="text-left"><b>University of Illinois Urbana-Champaign</b></p> <p class="text-right">Champaign, IL, USA</p>
 <br/>
-<p class="text-left">M.S. in Computer Science</p> <p class="text-right">Aug 2022 - (May 2024)</p>
+<p class="text-left">M.S. in Computer Science</p> <p class="text-right">Aug 2022 - May 2024</p>
 
 Advisor: Prof. [Tianyin Xu](https://tianyin.github.io/)
 
@@ -57,6 +57,8 @@ __Teaching Assistant @ NJIT__
 
 ## Experience
 
+<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Spring 2024 - Summer 2024</p>
+<br/>
 <p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Fall 2022 - Summer 2023</p>
 <br/>
 <p class="text-left"><b>Undergraduate Research Assistant</b>, NJIT</p> <p class="text-right">Spring 2022</p>
@@ -75,14 +77,10 @@ __Teaching Assistant @ NJIT__
 
 ## Presentations and Talks
 
+<p class="text-left"><b>Direct Memory Translation for Virtualized Clouds</b></p>
+<br/>
+<p class="text-left">ACM Int'l. Conf. on Architectural Support for Programming Languages and Operating Systems</p> <p class="text-right">May 1, 2024</p>
+<br/>
 <p class="text-left"><b>HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation</b></p>
 <br/>
 <p class="text-left">Int'l. Conf. on Parallel Architectures and Compilation Techniques</p> <p class="text-right">Oct 23, 2023</p>
-<br/>
-<p class="text-left">National Center for Supercomputing Applications</p> <p class="text-right">Oct 17, 2023</p>
-
----
-
-## Miscellaneous
-
-I am a huge fan of Elder Scrolls franchise. I also like watching anime. My current favourite is BanG Dream It's MyGO!!!!!.
