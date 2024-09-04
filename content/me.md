@@ -7,7 +7,7 @@ description: "My information."
 
 ---
 
-Hi! My name is Jiyuan Zhang. I am a second-year Master of Science student studying Computer Science at the University of Illinois Urbana-Champaign. I received my Bachelor's degree from the New Jersey Institute of Technology in 2022. I will graduate from MS program May 2024 and return to UIUC as a Ph.D. student in the Fall.
+Hi! My name is Jiyuan Zhang. I am a first-year Ph.D. student studying Computer Science at the University of Illinois Urbana-Champaign. I received my Bachelor's degree from the New Jersey Institute of Technology in 2022. I will graduate from MS program May 2024 and return to UIUC as a Ph.D. student in the Fall.
 
 I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern virtualization technologies_, with an emphasis on topics related to virtualized memory. I have designed several techniques for improving the efficiency of memory translation and hardware caches. I also conducted research on topics such as file systems and task scheduling.
 
