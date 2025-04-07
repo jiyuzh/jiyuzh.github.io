@@ -7,9 +7,9 @@ description: "My information."
 
 ---
 
-Hi! My name is Jiyuan Zhang. I am a first-year Ph.D. student studying Computer Science at the University of Illinois Urbana-Champaign. I received my Bachelor's degree from the New Jersey Institute of Technology in 2022. I will graduate from MS program May 2024 and return to UIUC as a Ph.D. student in the Fall.
+Hi! My name is Jiyuan Zhang. I am a first-year Ph.D. student studying Computer Science at the University of Illinois Urbana-Champaign. I received my M.S. degree from UIUC in 2024 and my Bachelor's degree from the New Jersey Institute of Technology in 2022.
 
-I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern virtualization technologies_, with an emphasis on topics related to virtualized memory. I have designed several techniques for improving the efficiency of memory translation and hardware caches. I also conducted research on topics such as file systems and task scheduling.
+I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern cloud systems_, with an emphasis on topics related to memory and storage systems. I have designed several techniques for improving the efficiency and scalability of memory translation, storage hierarchies, and hardware caches. I also conducted research on topics such as software engineering and task scheduling.
 
 ---
 
@@ -17,9 +17,17 @@ I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improvin
 
 <p class="text-left"><b>University of Illinois Urbana-Champaign</b></p> <p class="text-right">Champaign, IL, USA</p>
 <br/>
+<p class="text-left">Ph.D. in Computer Science</p> <p class="text-right">Aug 2024 - (May 2029)</p>
+
+Advisor: Prof. [Tianyin Xu](https://tianyin.github.io/)
+
+<p class="text-left"><b>University of Illinois Urbana-Champaign</b></p> <p class="text-right">Champaign, IL, USA</p>
+<br/>
 <p class="text-left">M.S. in Computer Science</p> <p class="text-right">Aug 2022 - May 2024</p>
 
 Advisor: Prof. [Tianyin Xu](https://tianyin.github.io/)
+
+Thesis: [A Software Approach to Accelerating Memory Translation for Virtualized Clouds](https://www.ideals.illinois.edu/items/131363)
 
 <p class="text-left"><b>New Jersey Institute of Technology</b></p> <p class="text-right">Newark, NJ, USA</p>
 <br/>
@@ -41,11 +49,13 @@ You can find my Curriculum Vitae [here](/cv.pdf).
 
 __Research Mentoring @ UIUC__
 
-<p class="text-left"><a href="https://www.linkedin.com/in/peizhe-liu/">Peizhe Liu</a> (Undergraduate Student, UIUC)</p> <p class="text-right">Fall 2023 - Present</p>
+<p class="text-left"><a href="https://www.linkedin.com/in/peizhe-liu/">Peizhe Liu</a> (Graduate Student, UIUC)</p> <p class="text-right">Oct 2023 - Present</p>
 
-<p class="text-left"><a href="https://www.linkedin.com/in/fan-chung-8637741a4/">Fan Chung</a> (Undergraduate Student, UIUC)</p> <p class="text-right">Spring 2023 - Present</p>
+<p class="text-left"><a href="https://schai.me/">Siyuan Chai</a> (Graduate Student, UIUC)</p> <p class="text-right">Aug 2022 - Apr 2025</p>
 
-<p class="text-left"><a href="https://www.linkedin.com/in/yiming-du-901428214">Yiming Du</a> (Graduate Student, University of Rhode Island)</p> <p class="text-right">Fall 2022 - Spring 2023</p>
+<p class="text-left"><a href="https://www.linkedin.com/in/fan-chung-8637741a4/">Fan Chung</a> (Undergraduate Student, UIUC)</p> <p class="text-right">Jan 2023 - Aug 2024</p>
+
+<p class="text-left"><a href="https://www.linkedin.com/in/yiming-du-901428214">Yiming Du</a> (Graduate Student, University of Rhode Island)</p> <p class="text-right">Aug 2022 - May 2023</p>
 
 __Teaching Assistant @ NJIT__
 
@@ -57,16 +67,20 @@ __Teaching Assistant @ NJIT__
 
 ## Experience
 
-<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Spring 2024 - Summer 2024</p>
+<p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, Hewlett Packard Labs</p> <p class="text-right">May 2025 - Aug 2025</p>
 <br/>
-<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Fall 2022 - Summer 2023</p>
+<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Jan 2024 - May 2024</p>
 <br/>
-<p class="text-left"><b>Undergraduate Research Assistant</b>, NJIT</p> <p class="text-right">Spring 2022</p>
+<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Aug 2022 - Aug 2023</p>
+<br/>
+<p class="text-left"><b>Undergraduate Research Assistant</b>, NJIT</p> <p class="text-right">Jan 2022 - May 2022</p>
 
 ---
 
 ## Awards and Honors
 
+<p class="text-left"><b>Wing Kai Cheng Fellowship</b>, UIUC</p> <p class="text-right">2024 - 2025</p>
+<br/>
 <p class="text-left"><b>President's Medal for Academic Excellence</b>, NJIT</p> <p class="text-right">2022</p>
 <br/>
 <p class="text-left"><b>Summa Cum Laude</b>, NJIT</p> <p class="text-right">2022</p>
@@ -78,6 +92,8 @@ __Teaching Assistant @ NJIT__
 ## Presentations and Talks
 
 <p class="text-left"><b>Direct Memory Translation for Virtualized Clouds</b></p>
+<br/>
+<p class="text-left">Cornell University</p> <p class="text-right">Oct 10, 2024</p>
 <br/>
 <p class="text-left">ACM Int'l. Conf. on Architectural Support for Programming Languages and Operating Systems</p> <p class="text-right">May 1, 2024</p>
 <br/>

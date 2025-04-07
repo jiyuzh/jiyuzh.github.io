@@ -32,5 +32,5 @@ The paper has investigated the techniques to implement DASEC in the task schedul
 
 ##### Citation
 
-Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, 2022.
+Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Jing Li, and Xiaoning Ding. "Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference". In _Proceedings of the 13th Symposium on Cloud Computing (SoCC)_, Nov 2022.
 

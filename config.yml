@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "Jiyuan Zhang is a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign. He received his Bachelor's degree from the New Jersey Institute of Technology in 2022. Zhang is working with Professor Tianyin Xu on improving the performance and scalability of modern virtualization technologies, with an emphasis on topics related to virtualized memory."
+    description: "Jiyuan Zhang is a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign. He received his M.S. degree from UIUC in 2024 and his Bachelor's degree from the New Jersey Institute of Technology in 2022. Zhang is working with Professor Tianyin Xu on improving the performance and scalability of modern cloud systems, with an emphasis on topics related to memory and storage systems."
     author: Jiyuan Zhang
     email: jiyuanz3@illinois.edu
     googleAnalyticsID: "G-0"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Jiyuan Zhang
-          subtitle: "Jiyuan Zhang is a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign. Zhang is working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern virtualization technologies_."
+          subtitle: "Jiyuan Zhang is a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign. He received his M.S. degree from UIUC in 2024 and his Bachelor's degree from the New Jersey Institute of Technology in 2022. Zhang is working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern cloud systems_, with an emphasis on topics related to memory and storage systems."
           imageUrl: "/profile.png"
           imageWidth: 170
           imageHeight: 170

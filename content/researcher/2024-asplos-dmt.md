@@ -28,5 +28,5 @@ Virtual memory translation has become a key performance bottleneck of memory-int
 
 ##### Citation
 
-Jiyuan Zhang, Weiwei Jia, Siyuan Chai, Peizhe Liu, Jongyul Kim, and Tianyin Xu. "Direct Memory Translation for Virtualized Clouds". In _Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)_, 2024.
+Jiyuan Zhang, Weiwei Jia, Siyuan Chai, Peizhe Liu, Jongyul Kim, and Tianyin Xu. "Direct Memory Translation for Virtualized Clouds". In _Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)_, Apr 2024.
 

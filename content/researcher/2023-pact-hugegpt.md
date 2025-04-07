@@ -30,5 +30,5 @@ This paper presents HugeGPT, a software approach to reducing two-dimensional pag
 
 ##### Citation
 
-Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Yiming Du, Xiaoning Ding, and Tianyin Xu. "HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation". In _Proceedings of the 32th International Conference on Parallel Architectures and Compilation Techniques (PACT)_, 2023.
+Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Yiming Du, Xiaoning Ding, and Tianyin Xu. "HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation". In _Proceedings of the 32th International Conference on Parallel Architectures and Compilation Techniques (PACT)_, Oct 2023.
 

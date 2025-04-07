@@ -34,5 +34,5 @@ Extensive evaluation based on the prototype implementation in Linux/KVM and dive
 
 ##### Citation
 
-Weiwei Jia, Jiyuan Zhang, Jianchen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, 2023.
+Weiwei Jia, Jiyuan Zhang, Jianchen Shan, and Xiaoning Ding. "Making Dynamic Page Coalescing Effective on Virtualized Clouds". In _Proceedings of the 18th European Conference on Computer Systems (EuroSys)_, May 2023.
 
