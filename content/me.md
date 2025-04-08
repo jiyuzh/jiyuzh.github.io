@@ -69,6 +69,8 @@ __Teaching Assistant @ NJIT__
 
 <p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, Hewlett Packard Labs</p> <p class="text-right">May 2025 - Aug 2025</p>
 <br/>
+<br/>
+<br/>
 <p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Jan 2024 - May 2024</p>
 <br/>
 <p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Aug 2022 - Aug 2023</p>
