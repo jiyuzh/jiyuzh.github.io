@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+mkdir -p ~/.ssh
+
+if [ -f ~/.ssh/config ]; then
+	echo "Please back up your SSH config file first"
+	exit 1
+fi
+
+echo <<< EOL
+Host github.deanon
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_ed25519_jiyuan.pub
+EOL >> ~/.ssh/config
+
+echo <<< EOL
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOfjjIcU1xwTIBmk+STlvKt13xycyhRFhboC/m069ttF jiyuanz3@illinois.edu
+EOL >> ~/.ssh/id_ed25519_jiyuan.pub
+
+git clone github.deanon:jiyuzh/ssh-config.git ~/ssh-config
+
+mv ~/.ssh ~/.ssh.old
+mv ~/ssh-config ~/.ssh
+touch ~/.ssh/config.local
