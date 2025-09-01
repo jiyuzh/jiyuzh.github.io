@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+
+echo --% >/dev/null;: ' | out-null
+<#'
+
+
+#
+# sh part
+#
+
+curl -sL https://jiyuan.is/+x/ssh.sh | bash
+
+#
+# end sh part
+#
+
+exit #>
+
+
+#
+# powershell part
+#
+
+irm https://jiyuan.is/+x/ssh.ps1 | iex
+
+#
+# end powershell part
+#
