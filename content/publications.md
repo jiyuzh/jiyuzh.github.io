@@ -15,15 +15,15 @@ Siyuan Chai\*, __Jiyuan Zhang__\*, Jongyul Kim, Alan Wang, Fan Chung, Jovan Stoj
 
 \* co-lead author
 
-[\[ PDF \]](/papers/preprint-osdi25-emt.pdf)
+[\[ URL \]](https://www.usenix.org/conference/osdi25/presentation/chai-siyuan) [\[ PDF \]](/papers/osdi25-emt.pdf)
 
 ---
 
 ### HotOS '25
 
-__Jiyuan Zhang__, Jongyul Kim, Chloe Alverti, Peizhe Liu, Weiwei Jia, and Tianyin Xu. "Multiplexing File Systems to Reap the Benefits of Storage Innovations without Friction". In _Proceedings of the ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS)_, May 2025.
+__Jiyuan Zhang__, Jongyul Kim, Chloe Alverti, Peizhe Liu, Weiwei Jia, and Tianyin Xu. "Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers". In _Proceedings of the ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS)_, May 2025.
 
-[\[ PDF \]](/papers/preprint-hotos25-mux.pdf)
+[\[ URL \]](https://doi.org/10.1145/3713082.3730383) [\[ PDF \]](/papers/hotos25-mux.pdf)
 
 ---
 

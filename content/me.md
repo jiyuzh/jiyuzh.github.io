@@ -49,7 +49,7 @@ You can find my Curriculum Vitae [here](/cv.pdf).
 
 __Research Mentoring @ UIUC__
 
-<p class="text-left"><a href="https://www.linkedin.com/in/peizhe-liu/">Peizhe Liu</a> (Graduate Student, UIUC)</p> <p class="text-right">Oct 2023 - Present</p>
+<p class="text-left"><a href="https://www.linkedin.com/in/peizhe-liu/">Peizhe Liu</a> (Graduate Student, UIUC)</p> <p class="text-right">Oct 2023 - Aug 2025</p>
 
 <p class="text-left"><a href="https://schai.me/">Siyuan Chai</a> (Graduate Student, UIUC)</p> <p class="text-right">Aug 2022 - Apr 2025</p>
 
@@ -67,7 +67,7 @@ __Teaching Assistant @ NJIT__
 
 ## Experience
 
-<p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, Hewlett Packard Labs</p> <p class="text-right">May 2025 - Aug 2025</p>
+<p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, Hewlett Packard Labs</p> <p class="text-right">May 2025 - (Aug 2026)</p>
 <br/>
 <br/>
 <br/>
@@ -93,12 +93,18 @@ __Teaching Assistant @ NJIT__
 
 ## Presentations and Talks
 
+<p class="text-left"><b>EMT: An OS Framework for New Memory Translation Architectures</b></p>
+<br/>
+<p class="text-left">USENIX Symposium on Operating Systems Design and Implementation</p> <p class="text-right">Jul 9, 2025</p>
+<br/>
+
 <p class="text-left"><b>Direct Memory Translation for Virtualized Clouds</b></p>
 <br/>
 <p class="text-left">Cornell University</p> <p class="text-right">Oct 10, 2024</p>
 <br/>
 <p class="text-left">ACM Int'l. Conf. on Architectural Support for Programming Languages and Operating Systems</p> <p class="text-right">May 1, 2024</p>
 <br/>
+
 <p class="text-left"><b>HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation</b></p>
 <br/>
 <p class="text-left">Int'l. Conf. on Parallel Architectures and Compilation Techniques</p> <p class="text-right">Oct 23, 2023</p>

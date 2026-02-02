@@ -1,12 +1,12 @@
 ---
-title: "Multiplexing File Systems to Reap the Benefits of Storage Innovations without Friction"
+title: "Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers"
 date: 2025-05-14
 url: /hotos25-mux/
 pubStatus: "HotOS '25"
 pubStatusColor: "#3D9970"
 author: [ "__Jiyuan Zhang__", "Jongyul Kim", "Chloe Alverti", "Peizhe Liu", "Weiwei Jia", "Tianyin Xu" ]
-description: "This paper presents the Multiplexer, a new direction that realizes tiering by directly multiplexing device-specific file systems. We demonstrate that such a design can not only handle data dependencies and event ordering correctly, but also improve performance via parallelism. More importantly, its separation of concerns—tiering and device specialization—enables progressive evolution and flexible integration of heterogeneous storage systems."
-summary: "This paper presents the Multiplexer, a new direction that realizes tiering by directly multiplexing device-specific file systems. We demonstrate that such a design can not only handle data dependencies and event ordering correctly, but also improve performance via parallelism. More importantly, its separation of concerns—tiering and device specialization—enables progressive evolution and flexible integration of heterogeneous storage systems."
+description: "This paper presents Mux, a new tiered file system that accesses different device types indirectly through device-specific file systems, rather than directly through device drivers. Despite introducing an additional indirection layer, we show that Mux significantly outperforms Strata, a research tiered file system, because it utilizes specialized production-ready file systems."
+summary: "This paper presents Mux, a new tiered file system that accesses different device types indirectly through device-specific file systems, rather than directly through device drivers. Despite introducing an additional indirection layer, we show that Mux significantly outperforms Strata, a research tiered file system, because it utilizes specialized production-ready file systems."
 hasMore: true
 
 ---
@@ -15,17 +15,18 @@ hasMore: true
 
 ##### Metadata
 
-- PDF: [Download Here](/papers/preprint-hotos25-mux.pdf)
+- DOI: [10.1145/3713082.3730383](https://doi.org/10.1145/3713082.3730383)
+- PDF: [Download Here](/papers/hotos25-mux.pdf)
 
 ---
 
 ##### Abstract
 
-The emergence of storage technologies has been driving active developments of many new file systems specialized for new devices. A tiered file system is a common design for heterogeneous storage systems composed of different devices. We argue that tiered file systems inevitably lag behind device-specific file systems and are inherently hard to evolve for new devices. In this paper, we explore a new direction that realizes tiering by directly multiplexing device-specific file systems. We describe a new design that (1) modularizes tiering policies (e.g., data distribution, migration, and replication) in a system-wide multiplexer, (2) dispatches reads and writes to device-specific file systems as per policy, and (3) conforms to the existing interface (Linux VFS) and thus is transparent to user applications. We demonstrate that such a design can not only handle data dependencies and event ordering correctly, but also improve performance via parallelism. More importantly, its separation of concerns—tiering and device specialization—enables progressive evolution and flexible integration of heterogeneous storage systems.
+Different storage technologies motivate the development of specialized file systems tailored to specific device types. A tiered file system aggregates such device types into a single file system. We argue that the current practice of developing tiered file systems tends to lag behind that of device-specific file systems because, inherently, developers are burdened with addressing multiple device types simultaneously, rather than specializing. We propose to solve this problem using Mux, a new tiered file system that accesses different device types indirectly through device-specific file systems, rather than directly through device drivers. Despite introducing an additional indirection layer, we show that Mux significantly outperforms Strata, a research tiered file system, because it utilizes specialized production-ready file systems. Compared with direct access to per-device file systems (with no tiering), Mux adds a worst-case read latency overhead of 6.6% to 87.3%, and a write throughout overhead of 1.6% to 3.5% across devices. We contend that Mux's separation of tiering and specialization concerns enables progressive evolution and flexible integration of heterogeneous storage devices.
 
 ---
 
 ##### Citation
 
-Jiyuan Zhang, Jongyul Kim, Chloe Alverti, Peizhe Liu, Weiwei Jia, and Tianyin Xu. "Multiplexing File Systems to Reap the Benefits of Storage Innovations without Friction". In _Proceedings of the ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS)_, May 2025.
+Jiyuan Zhang, Jongyul Kim, Chloe Alverti, Peizhe Liu, Weiwei Jia, and Tianyin Xu. "Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers". In _Proceedings of the ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS)_, May 2025.
 
