@@ -7,9 +7,9 @@ description: "My information."
 
 ---
 
-Hi! My name is Jiyuan Zhang. I am a first-year Ph.D. student studying Computer Science at the University of Illinois Urbana-Champaign. I received my M.S. degree from UIUC in 2024 and my Bachelor's degree from the New Jersey Institute of Technology in 2022.
+Hi! My name is Jiyuan Zhang. I am a second-year Ph.D. student studying Computer Science at the University of Illinois Urbana-Champaign. I received my M.S. degree from UIUC in 2024 and my Bachelor's degree from the New Jersey Institute of Technology in 2022.
 
-I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improving the _performance and scalability of modern cloud systems_, with an emphasis on topics related to memory and storage systems. I have designed several techniques for improving the efficiency and scalability of memory translation, storage hierarchies, and hardware caches. I also conducted research on topics such as software engineering and task scheduling.
+I am working with Professor [Tianyin Xu](https://tianyin.github.io/) and [Nam Sung Kim](https://fast.ece.illinois.edu/) on improving the _performance and scalability of modern cloud systems_, with an emphasis on topics related to memory and storage systems. I have designed several techniques for improving the efficiency and scalability of memory translation, storage hierarchies, and hardware caches. I also conducted research on topics such as software engineering and task scheduling.
 
 ---
 
@@ -19,7 +19,7 @@ I am working with Professor [Tianyin Xu](https://tianyin.github.io/) on improvin
 <br/>
 <p class="text-left">Ph.D. in Computer Science</p> <p class="text-right">Aug 2024 - (May 2029)</p>
 
-Advisor: Prof. [Tianyin Xu](https://tianyin.github.io/)
+Advisor: Prof. [Tianyin Xu](https://tianyin.github.io/) and [Nam Sung Kim](https://fast.ece.illinois.edu/)
 
 <p class="text-left"><b>University of Illinois Urbana-Champaign</b></p> <p class="text-right">Champaign, IL, USA</p>
 <br/>
