@@ -67,7 +67,7 @@ __Teaching Assistant @ NJIT__
 
 ## Experience
 
-<p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, Hewlett Packard Labs</p> <p class="text-right">May 2025 - (Aug 2026)</p>
+<p class="text-left"><b>Research Associate Intern (Network and Distributed Systems Lab)</b>, HPE Labs</p> <p class="text-right">May 2025 - (Aug 2026)</p>
 <br/>
 <br/>
 <br/>
