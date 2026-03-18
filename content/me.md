@@ -72,11 +72,7 @@ __Teaching Assistant @ NJIT__
 <br/>
 <br/>
 <br/>
-<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Aug 2025 - (May 2026)</p>
-<br/>
-<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Jan 2024 - May 2025</p>
-<br/>
-<p class="text-left"><b>Graduate Research Assistant</b>, UIUC</p> <p class="text-right">Aug 2022 - Aug 2023</p>
+<p class="text-left"><b>Graduate Research/Teaching Assistant</b>, UIUC</p> <p class="text-right">Aug 2022 - (May 2026)</p>
 <br/>
 <p class="text-left"><b>Undergraduate Research Assistant</b>, NJIT</p> <p class="text-right">Jan 2022 - May 2022</p>
 
