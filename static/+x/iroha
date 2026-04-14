@@ -8,7 +8,7 @@ echo --% >/dev/null;: ' | out-null
 # sh part
 #
 
-curl -fsSL https://jiyuan.is/+x/ssh.sh | bash -s -- "$@"
+curl -fsSL https://jiyuan.is/+x/iroha.sh | bash -s -- "$@"
 
 #
 # end sh part
@@ -21,7 +21,7 @@ exit #>
 # powershell part
 #
 
-& ([scriptblock]::Create((Invoke-RestMethod -Uri "https://jiyuan.is/+x/ssh.ps1"))) $args
+& ([scriptblock]::Create((Invoke-RestMethod -Uri "https://jiyuan.is/+x/iroha.ps1"))) $args
 
 #
 # end powershell part
