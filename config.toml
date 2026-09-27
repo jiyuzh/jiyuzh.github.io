@@ -11,7 +11,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
 
 [params]
   author = "Jiyuan Zhang"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "Jiyuan Zhang's Website - A Computer System and Architecture Researcher."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
