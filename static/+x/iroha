@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+
+echo --% >/dev/null;: ' | out-null
+<#'
+
+
+#
+# sh part
+#
+
+curl -fsSL https://jiyuan.is/+x/iroha.sh | bash -s -- "$@"
+
+#
+# end sh part
+#
+
+exit #>
+
+
+#
+# powershell part
+#
+
+& ([scriptblock]::Create((Invoke-RestMethod -Uri "https://jiyuan.is/+x/iroha.ps1"))) $args
+
+#
+# end powershell part
+#
